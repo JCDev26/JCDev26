@@ -30,4 +30,4 @@ I'm also building software projects that give me a place to apply these ideas ou
 
 I'm always interested in conversations around automation architecture, quality engineering, developer tooling, and practical uses of AI in software development.
 
-[LinkedIn](www.linkedin.com/in/juancruz123)
+[LinkedIn](https://www.linkedin.com/in/juancruz123)
