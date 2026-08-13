@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Juan 
 
-<!--
-**JCDev26/JCDev26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development Engineer in Test focused on **automation architecture, quality engineering, developer productivity, and AI-assisted software development**.
 
-Here are some ideas to get you started:
+My work has evolved from building automated tests to designing the systems around them: scalable automation frameworks, CI/CD workflows, reusable engineering patterns, and governed approaches to AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- **Automation:** Playwright, TypeScript, Ruby
+- **Testing:** UI, API, GraphQL, end-to-end, regression, smoke
+- **CI/CD:** GitLab, Jenkins
+- **Engineering:** Test architecture, framework modernization, developer tooling
+- **AI-assisted engineering:** Agentic workflows, governance, bounded execution, observability, and human review
+
+## What I'm building
+
+I'm currently exploring how engineering teams can use AI-assisted development without giving up the controls that make software engineering reliable.
+
+One of my current projects is a vendor-neutral reference architecture for agentic engineering workflows. The goal is to separate **engineering intent from execution** while keeping workflows governed, observable, reviewable, and portable across contributors and AI systems.
+
+I'm also building software projects that give me a place to apply these ideas outside of my day-to-day engineering work.
+
+> Some projects here are actively evolving. I use this GitHub to document the architecture, decisions, experiments, and lessons behind the work—not just finished products.
+
+## Current interests
+
+`Test Automation` · `Software Architecture` · `Developer Productivity` · `CI/CD` · `AI-Assisted Engineering` · `Agentic Systems`
+
+## Connect
+
+I'm always interested in conversations around automation architecture, quality engineering, developer tooling, and practical uses of AI in software development.
+
+[LinkedIn](www.linkedin.com/in/juancruz123)
