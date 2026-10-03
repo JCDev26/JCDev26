@@ -1,33 +1,31 @@
-# Hi, I'm Juan 
+# Hi, I'm Juan
 
-I'm a Software Development Engineer in Test focused on **automation architecture, quality engineering, developer productivity, and AI-assisted software development**.
+I'm a Software Development Engineer in Test focused on quality engineering, reusable automation architecture, and developer productivity. My public projects connect practical Playwright execution boundaries with contributor-neutral engineering architecture, keeping intent, governance, evidence, and validation explicit.
 
-My work has evolved from building automated tests to designing the systems around them: scalable automation frameworks, CI/CD workflows, reusable engineering patterns, and governed approaches to AI-assisted development.
+## What I'm working on
 
-## What I work with
+- Test automation and release validation across UI, API, and end-to-end workflows.
+- Playwright and TypeScript tooling with deterministic controls and reviewable results.
+- AI-assisted engineering and agentic architecture, with clear boundaries between external reasoning and execution.
 
-- **Automation:** Playwright, TypeScript, Ruby
-- **Testing:** UI, API, GraphQL, end-to-end, regression, smoke
-- **CI/CD:** GitLab, Jenkins
-- **Engineering:** Test architecture, framework modernization, developer tooling
-- **AI-assisted engineering:** Agentic workflows, governance, bounded execution, observability, and human review
+## Featured work
 
-## What I'm building
+### [Agentic Engineering Reference](https://github.com/JCDev26/agentic-engineering-reference)
 
-I'm currently exploring how engineering teams can use AI-assisted development without giving up the controls that make software engineering reliable.
+A TypeScript reference architecture demonstrating explicit engineering intent, deterministic governance, bounded contribution, independent validation, and preserved failure causes. It includes a reusable [Architecture Challenge](https://github.com/JCDev26/agentic-engineering-reference/blob/v1.0.0/docs/challenge/architecture-challenge.md) for assessing other projects without requiring them to copy the implementation. [v1.0.0](https://github.com/JCDev26/agentic-engineering-reference/releases/tag/v1.0.0) is a trusted local reference, not a production agent platform or live AI integration.
 
-One of my current projects is a vendor-neutral reference architecture for agentic engineering workflows. The goal is to separate **engineering intent from execution** while keeping workflows governed, observable, reviewable, and portable across contributors and AI systems.
+### [Playwright Agent Wrapper](https://github.com/JCDev26/playwright-agent-wrapper-starter)
 
-I'm also building software projects that give me a place to apply these ideas outside of my day-to-day engineering work.
+A small execution wrapper for external human, automation, or AI-assisted QA callers. It validates bounded requests, preserves literal spec selection, and uses current-run Playwright evidence to distinguish test failures from runs that cannot produce a trustworthy judgment. [v1.0.0](https://github.com/JCDev26/playwright-agent-wrapper-starter/releases/tag/v1.0.0) includes real integration regressions and GitHub Actions checks; AI remains external.
 
-> Some projects here are actively evolving. I use this GitHub to document the architecture, decisions, experiments, and lessons behind the work—not just finished products.
+The wrapper was assessed using the reference's Architecture Challenge. The projects remain independent: one explores broader engineering responsibilities; the other deliberately owns one execution boundary.
 
-## Current interests
+## Current direction
 
-`Test Automation` · `Software Architecture` · `Developer Productivity` · `CI/CD` · `AI-Assisted Engineering` · `Agentic Systems`
+I'm exploring contributor-neutral engineering systems where humans, automation, and AI can work toward shared engineering intent under deterministic governance and evidence-driven validation. These repositories demonstrate bounded local implementations and architectural reasoning, not production multi-agent operations.
 
-## Connect
+## Core technologies
 
-I'm always interested in conversations around automation architecture, quality engineering, developer tooling, and practical uses of AI in software development.
+TypeScript · Playwright Test · Node.js · GitHub Actions · automated testing · CI/CD checks · software architecture
 
 [LinkedIn](https://www.linkedin.com/in/juancruz123)
