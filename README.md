@@ -1,6 +1,6 @@
 # Hi, I'm Juan
 
-I'm a Software Development Engineer in Test focused on quality engineering, reusable automation architecture, and developer productivity. My public projects connect practical Playwright execution boundaries with contributor-neutral engineering architecture, keeping intent, governance, evidence, and validation explicit.
+I'm a Software Development Engineer in Test focused on quality engineering, test automation architecture, and developer productivity. I'm also exploring how those same engineering principles—clear intent, deterministic controls, independent validation, and reviewable evidence—apply to AI-assisted and agentic engineering systems.
 
 ## What I'm working on
 
@@ -12,7 +12,7 @@ I'm a Software Development Engineer in Test focused on quality engineering, reus
 
 ### [Agentic Engineering Reference](https://github.com/JCDev26/agentic-engineering-reference)
 
-A TypeScript reference architecture demonstrating explicit engineering intent, deterministic governance, bounded contribution, independent validation, and preserved failure causes. It includes a reusable [Architecture Challenge](https://github.com/JCDev26/agentic-engineering-reference/blob/v1.0.0/docs/challenge/architecture-challenge.md) for assessing other projects without requiring them to copy the implementation. [v1.0.0](https://github.com/JCDev26/agentic-engineering-reference/releases/tag/v1.0.0) is a trusted local reference, not a production agent platform or live AI integration.
+A TypeScript reference architecture demonstrating explicit engineering intent, deterministic governance, bounded contribution, independent validation, and preserved failure causes. It includes a reusable [Architecture Challenge](https://github.com/JCDev26/agentic-engineering-reference/blob/main/docs/challenge/architecture-challenge.md) for assessing other projects without requiring them to copy the implementation. [v1.0.0](https://github.com/JCDev26/agentic-engineering-reference/releases/tag/v1.0.0) is a trusted local reference, not a production agent platform or live AI integration.
 
 ### [Playwright Agent Wrapper](https://github.com/JCDev26/playwright-agent-wrapper-starter)
 
