@@ -1,6 +1,6 @@
 # Hi, I'm Juan
 
-I'm a Software Development Engineer in Test focused on quality engineering, test automation architecture, and developer productivity. I'm also exploring how those same engineering principles—clear intent, deterministic controls, independent validation, and reviewable evidence—apply to AI-assisted and agentic engineering systems.
+I'm a Software Development Engineer in Test focused on quality engineering, test automation architecture, and developer productivity. I'm also exploring how those same engineering principles: clear intent, deterministic controls, independent validation, and reviewable evidence apply to AI-assisted and agentic engineering systems.
 
 ## What I'm working on
 
